@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/MLFLow/mlruns/0/81f5744060ed4fd7b9cb67c0b62eb572/artifacts
+end_time: 1728629308943
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81f5744060ed4fd7b9cb67c0b62eb572
+run_name: calm-goose-34
+run_uuid: 81f5744060ed4fd7b9cb67c0b62eb572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728629302924
+status: 3
+tags: []
+user_id: HP
